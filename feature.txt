@@ -1,0 +1,9 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+incomplete work
+=======
+More changes not staged
+>>>>>>> Stashed changes
+=======
+More changes not staged
+>>>>>>> Stashed changes
